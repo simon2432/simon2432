@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Simón Feeney  
 
-🎓 Software Engineering student @ Universidad Siglo 21 (Argentina)  
+🎓 Software Engineering   
 📊 Junior Developer transitioning into **Data Analysis & Python**  
 🐍 ML Developer Fellow @ AnyoneAI  
 🌍 Open to remote or part-time junior positions • English level: B2 certified  
