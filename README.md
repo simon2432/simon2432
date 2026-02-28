@@ -1,38 +1,36 @@
-# 👋 Hi there! I'm Simón Feeney  
+Hi, I'm Simón Feeney
 
-🎓 Software Engineering   
-📊 Junior Developer transitioning into **Data Analysis & Python**  
-🐍 ML Developer Fellow @ AnyoneAI  
-🌍 Open to remote or part-time junior positions • English level: B2 certified  
+🎓 Software Engineer
+Data Analyst | Data Science | Python & SQL
+- Machine Learning Fellow @ AnyoneAI
+- Open to roles in Data Analysis / Data Science (remote or on-site)
 
----
+About Me
 
-## 🔧 Tech Stack  
+I’m a data-focused professional with a strong foundation in software engineering.
+My work combines structured problem-solving, clean coding practices, and applied data analysis.
 
-**Data & Analysis**  
-- Python, pandas, NumPy, SQL, Matplotlib (currently learning data visualization and ML basics)  
+I have hands-on experience building end-to-end analytical workflows, performing exploratory data analysis, feature engineering, and evaluating predictive models on real-world datasets (350K+ records).
 
-**Full-Stack Development**  
-- Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- Backend: Node.js, Express, Prisma  
-- Databases: PostgreSQL, MySQL, SQLite
-- Mobile: React Native  
+My background in full-stack development allows me to approach data projects with scalability, system design awareness, and production-oriented thinking.
 
-**Tools & Practices**  
-- Git & GitHub, Jira, Agile (Scrum & Kanban), Figma  
+Tech Stack
+Data & Analytics
 
----
+Python, SQL, Pandas, NumPy
+Scikit-learn, PyTorch
+Matplotlib, Seaborn
 
-## 💡 About Me  
+Software Engineering
 
-I'm passionate about solving problems with code — from building full-stack applications to extracting insights from data.  
-Currently, I am transitioning my career towards **data analysis and data-driven development**, combining my experience in React, Node.js, and SQL with a growing expertise in Python, pandas, NumPy, and visualization tools.  
+Node.js, React, TypeScript
+PostgreSQL, MySQL, SQLite
 
-I enjoy continuous learning, working in collaborative environments, and contributing to real-world projects where I can grow as both a **developer and data analyst**.  
+Tools
 
----
+Git, Docker, Jira, Agile methodologies
 
-## 🤝 Let's Connect  
+Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/simon-feeney-dev)  
-- 📩 Email: simonfeeney11@gmail.com  
+LinkedIn: linkedin.com/in/simon-feeney-dev
+Email: simonfeeney11@gmail.com
