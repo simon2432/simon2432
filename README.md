@@ -2,11 +2,6 @@
 
 🎓 Software Engineer
 
-## Data Analyst | Data Science | Python & SQL
-
-- Machine Learning Fellow @ AnyoneAI
-- Open to roles in Data Analysis / Data Science (remote or on-site)
-
 ## About Me
 
 I’m a data-focused professional with a strong foundation in software engineering.
